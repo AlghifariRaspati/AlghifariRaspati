@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AlghifariRaspati
 - 👀 I’m interested in learning new stuff
-- 🌱 I’m currently learning dart
-- 💞️ I’m looking to collaborate on nothing currently
+- 🌱 I’m currently learning flutter
 - 📫 How to reach me : my Discord is Renz#6515
 
 <!---
